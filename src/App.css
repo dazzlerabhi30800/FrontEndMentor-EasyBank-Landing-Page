@@ -12,6 +12,9 @@ html {
 }
 body {
     scroll-behavior: smooth;
+    position: relative;
+    width : 100%;
+    overflow-x: hidden;
 }
 .App {
     height: 100vh;
